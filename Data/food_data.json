@@ -3,7 +3,7 @@
     "popular": [
       {
         "name": "Quattro Stagioni",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/qstagioni.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -12,7 +12,7 @@
       },
       {
         "name": "Power",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/power.png",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Capriciosa",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/capriciosa.png",
         "rating": "4.5",
         "deliveryTime": "55 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -30,7 +30,7 @@
       },
       {
         "name": "Carnivora",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/carnivora.png",
         "rating": "4.0",
         "deliveryTime": "75 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -39,7 +39,7 @@
       },
       {
         "name": "Hawaii",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/hawaii.jfif",
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -50,7 +50,7 @@
     "recommended": [
       {
         "name": "Capriciosa",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/capriciosa.png",
         "rating": "4.5",
         "deliveryTime": "55 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -59,7 +59,7 @@
       },
       {
         "name": "Carnivora",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/carnivora.png",
         "rating": "4.0",
         "deliveryTime": "75 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -68,7 +68,7 @@
       },
       {
         "name": "Hawaii",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/hawaii.jfif",
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -79,7 +79,7 @@
     "allmenu": [
       {
         "name": "Quattro Stagioni",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/qstagioni.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -88,7 +88,7 @@
       },
       {
         "name": "Power",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/power.png",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -97,7 +97,7 @@
       },
       {
         "name": "Capriciosa",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/capriciosa.png",
         "rating": "4.5",
         "deliveryTime": "55 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -106,7 +106,7 @@
       },
 	  {
         "name": "Carnivora",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/carnivora.png",
         "rating": "4.0",
         "deliveryTime": "75 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -115,7 +115,7 @@
       },
       {
         "name": "Hawaii",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/hawaii.jfif",
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Livrare gratuita",
@@ -124,7 +124,7 @@
       },
 	        {
         "name": "Vegetariana",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "imageUrl": "https://larisa-tufeanu.github.io/foodlion/Data/qstagioni.jpg",
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Livrare gratuita",
