@@ -9,7 +9,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "35",
         "note": "Extra special",
-	"description": "This is a special description and a text"
+	"description": "Italian pizza with artichokes, mushrooms, ham and olives."
       },
       {
         "name": "Power",
@@ -19,7 +19,8 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "30",
         "note": "Special",
-	"description": "This is a special description"
+	"description": "Pizza with mozarella, corn, bell pepper and ham."
+"
       },
       {
         "name": "Capriciosa",
@@ -29,7 +30,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "29",
         "note": "Chilly",
-	"description": "This is a special description"
+	"description": "Italian pizza with mozzarella, ham, mushrooms and olives."
       },
       {
         "name": "Carnivora",
@@ -39,7 +40,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "30",
         "note": "Spicy",
-	"description": "This is a special description"
+	"description": "Pizza with tomato sauce, mozzarella, salami, ham, olives, bell peppers, mushrooms, bacon, sausages, chicken breast."
       },
       {
         "name": "Hawaii",
@@ -49,7 +50,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "26",
         "note": "Special",
-	"description": "This is a special description"
+	"description": "Pizza with tomato sauce, cheese, pineapple, ham and bacon."
       }
     ],
     "recommended": [
@@ -61,7 +62,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "29",
         "note": "Chilly",
-	"description": "This is a special description"
+	"description": "Italian pizza with mozzarella, ham, mushrooms and olives."
       },
       {
         "name": "Carnivora",
@@ -71,7 +72,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "30",
         "note": "Spicy",
-	"description": "This is a special description"
+	"description": "Pizza with tomato sauce, mozzarella, salami, ham, olives, bell peppers, mushrooms, bacon, sausages, chicken breast."
       },
       {
         "name": "Hawaii",
@@ -81,7 +82,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "26",
         "note": "Special",
-	"description": "This is a special description"
+	"description": "Pizza with tomato sauce, cheese, pineapple, ham and bacon."
       }
     ],
     "allmenu": [
@@ -93,7 +94,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "35",
         "note": "Extra special",
-	"description": "This is a special description"
+	"description": "Italian pizza with artichokes, mushrooms, ham and olives."
       },
       {
         "name": "Power",
@@ -103,7 +104,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "30",
         "note": "Special",
-	"description": "This is a special description"
+	"description": "Pizza with mozarella, corn, bell pepper and ham."
       },
       {
         "name": "Capriciosa",
@@ -113,7 +114,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "29",
         "note": "Chilly",
-	"description": "This is a special description"
+	"description": "Italian pizza with mozzarella, ham, mushrooms and olives."
       },
 	  {
         "name": "Carnivora",
@@ -123,7 +124,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "30",
         "note": "Spicy",
-        "description": "This is a special description"
+        "description": "Pizza with tomato sauce, mozzarella, salami, ham, olives, bell peppers, mushrooms, bacon, sausages, chicken breast."
       },
       {
         "name": "Hawaii",
@@ -133,7 +134,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "26",
         "note": "Special",
-	"description": "This is a special description"
+	"description": "Pizza with tomato sauce, cheese, pineapple, ham and bacon."
       },
 	        {
         "name": "Vegetariana",
@@ -143,7 +144,7 @@
         "deliveryCharges": "Livrare gratuita",
         "price": "25",
         "note": "",
-	"description": "This is a special description"
+	"description": "Pizza topped with mushrooms, bell pepper, spinach and vegetal cheese."
       }
     ]
   }
